@@ -1,0 +1,1271 @@
+fileFormatVersion: 2
+guid: 58ae0365a17972d41ac6d529cff5ab53
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Warrior_Red_0
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1400
+        width: 78
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77aa86282c7358e4f8d296db88f3cc54
+      internalID: -1129106182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Red_1
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1400
+        width: 78
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2a3d18a5f749d49b9340031f815646
+      internalID: 711314816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Red_2
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1400
+        width: 80
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9927a760959744bb9939da3dd3d836
+      internalID: -378934480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Red_3
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 1400
+        width: 80
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b93dcd5e156db43bd714841937b852
+      internalID: -616173794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Red_4
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 1400
+        width: 78
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 576dcceafcfd05c41a20722c5df82890
+      internalID: 1435141390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Red_5
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1400
+        width: 78
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8147a5454d889894bb8d53e1d12d7c97
+      internalID: 1122466310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Red_6
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1208
+        width: 60
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ead3aa0fbe6b6047b1606b1017a141a
+      internalID: -718676375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Red_7
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1208
+        width: 69
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e490a411de6783d42b11efdb51bc445c
+      internalID: 1535616284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Red_8
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1208
+        width: 78
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe6fef0c6fc8404e94470fc976de1dd
+      internalID: -463092769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Red_9
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1208
+        width: 95
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6202b3c32e2ecb45b46d40794da0733
+      internalID: -1443323523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Red_11
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1208
+        width: 89
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056d538826a74e0468266a58a4967e0c
+      internalID: 428709526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Red_13
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1208
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08093eb7d0bb424e9117cdbdb682db9
+      internalID: 1990540094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Red_14
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1016
+        width: 71
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12ebef896d0c9a40b15846db94690da
+      internalID: 205441787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Red_15
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1016
+        width: 71
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a4f8dc43d97204e86dca44d73e1558
+      internalID: -1467282544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Red_17
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1016
+        width: 70
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0978b05bbf5c54492996144009eb26
+      internalID: -894410926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Red_19
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1016
+        width: 107
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3e69bc762e56b4081f6480d7575a25
+      internalID: 1104544601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Red_21
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 1013
+        width: 107
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cbe1d827901a5840b0f833f7a2152ec
+      internalID: 1132665580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Red_22
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 1016
+        width: 100
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2865bd68326b7624c9c526bb695f9fb6
+      internalID: 1022444339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Red_23
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 824
+        width: 82
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d060042f5408e44835b6baae8ce83b
+      internalID: -1341859316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Red_24
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 824
+        width: 84
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751c76f5338db26409a984a0a89e59b5
+      internalID: -245770814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Red_25
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 824
+        width: 84
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2570d8ae22be1409def1d16683b5fb
+      internalID: -675625740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Red_26
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 814
+        width: 123
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a417ebe0d693d449e2e93e2019760d
+      internalID: -1782148832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Red_27
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 824
+        width: 122
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bebc3e847e5e9d4498f7a7a65e950e3b
+      internalID: 652019848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Red_30
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 824
+        width: 85
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f914712b44551d54d96b80885ec72495
+      internalID: 250989211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Red_31
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 632
+        width: 78
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5796d3ce00f80e5489991412199742fb
+      internalID: -671142544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Red_32
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 632
+        width: 64
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6775681e2792ea54b90d658fb117ae0b
+      internalID: -1486528704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Red_33
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 675
+        width: 23
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03583bb74143ba847bd79182a87788c9
+      internalID: 872014925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Red_34
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 632
+        width: 64
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2e43c5cb5245543a75f530141cb94a
+      internalID: -1443939397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Red_35
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 675
+        width: 23
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f58fb9a80e8d8f4f81c5261966294b0
+      internalID: 1391897063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Red_36
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 589
+        width: 118
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c879374b2667948a2abdff58e119fd
+      internalID: 1861928081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Red_37
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 601
+        width: 89
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78899726d9f49e4479a81890a02a7665
+      internalID: -1924981169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Red_38
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 628
+        width: 66
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4a807a3c615334dbddf74df83615a0
+      internalID: 565314124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Red_39
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 440
+        width: 80
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55af4c94f603f1540bc27f2d73eb94a7
+      internalID: -1885909207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Red_40
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 440
+        width: 81
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25294deffed1de9468becc2650b97459
+      internalID: -1034490914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Red_41
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 440
+        width: 81
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e640fb40104261419eb7b0163945969
+      internalID: -1239760259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Red_42
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 412
+        width: 146
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea206b13a10c0a94faab1fc6372bc9ef
+      internalID: -1315712092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Red_43
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 413
+        width: 116
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8087046404b150943b33c3893e26d026
+      internalID: 1173920028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Red_44
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 440
+        width: 99
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d118e2afbf7f045a1b0ee3d371f175
+      internalID: -1081458979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Red_47
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 248
+        width: 118
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1aeb3b3d0f3e03489a3595fa7bc853f
+      internalID: 1206650507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Red_48
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 248
+        width: 118
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f67c0f8ca84bf14fb0870c4e51364b2
+      internalID: 987050282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Red_49
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 248
+        width: 118
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9ec3517a2f1234688fb9bcc4bb6a75
+      internalID: 2066134177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Red_50
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 249
+        width: 135
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c9bd291aed2cf40892d2cbbc490f42
+      internalID: 1392650622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Red_52
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 249
+        width: 98
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2592e91154c765442b49dd1372849572
+      internalID: 2114488570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Red_55
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 248
+        width: 79
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca66f4dbd47d79343ad38654165e08d2
+      internalID: 438463207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Red_59
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 56
+        width: 97
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ebd81e857ca58545b83c6a4b692f1e4
+      internalID: -1711317431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Red_60
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 56
+        width: 99
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44dc0482d21a384a85aebb3677caf99
+      internalID: 1840924893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Red_61
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 56
+        width: 99
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32556ebc51fe09c4fb1a94a7e2128c71
+      internalID: 337425471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Red_62
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 57
+        width: 160
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b511e06c8ed2a54fa7435c169adf1d9
+      internalID: -1896623950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Red_65
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 57
+        width: 126
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd814be6998d14b4ead87f1ffb3913fc
+      internalID: 1587468204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Red_67
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 56
+        width: 92
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c7892acb368cf45bd4a7e61c337fe1
+      internalID: 1489974834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Warrior_Red_0: -1129106182
+      Warrior_Red_1: 711314816
+      Warrior_Red_10: 875671236
+      Warrior_Red_11: 428709526
+      Warrior_Red_12: 1318830169
+      Warrior_Red_13: 1990540094
+      Warrior_Red_14: 205441787
+      Warrior_Red_15: -1467282544
+      Warrior_Red_16: 1288824181
+      Warrior_Red_17: -894410926
+      Warrior_Red_18: -186831804
+      Warrior_Red_19: 1104544601
+      Warrior_Red_2: -378934480
+      Warrior_Red_20: 1529491650
+      Warrior_Red_21: 1132665580
+      Warrior_Red_22: 1022444339
+      Warrior_Red_23: -1341859316
+      Warrior_Red_24: -245770814
+      Warrior_Red_25: -675625740
+      Warrior_Red_26: -1782148832
+      Warrior_Red_27: 652019848
+      Warrior_Red_28: 56179119
+      Warrior_Red_29: 178692547
+      Warrior_Red_3: -616173794
+      Warrior_Red_30: 250989211
+      Warrior_Red_31: -671142544
+      Warrior_Red_32: -1486528704
+      Warrior_Red_33: 872014925
+      Warrior_Red_34: -1443939397
+      Warrior_Red_35: 1391897063
+      Warrior_Red_36: 1861928081
+      Warrior_Red_37: -1924981169
+      Warrior_Red_38: 565314124
+      Warrior_Red_39: -1885909207
+      Warrior_Red_4: 1435141390
+      Warrior_Red_40: -1034490914
+      Warrior_Red_41: -1239760259
+      Warrior_Red_42: -1315712092
+      Warrior_Red_43: 1173920028
+      Warrior_Red_44: -1081458979
+      Warrior_Red_45: -2072431277
+      Warrior_Red_46: 1416155556
+      Warrior_Red_47: 1206650507
+      Warrior_Red_48: 987050282
+      Warrior_Red_49: 2066134177
+      Warrior_Red_5: 1122466310
+      Warrior_Red_50: 1392650622
+      Warrior_Red_51: 1969042978
+      Warrior_Red_52: 2114488570
+      Warrior_Red_53: -1446912452
+      Warrior_Red_54: -1759993573
+      Warrior_Red_55: 438463207
+      Warrior_Red_56: -1630219
+      Warrior_Red_57: -800982306
+      Warrior_Red_58: 58006364
+      Warrior_Red_59: -1711317431
+      Warrior_Red_6: -718676375
+      Warrior_Red_60: 1840924893
+      Warrior_Red_61: 337425471
+      Warrior_Red_62: -1896623950
+      Warrior_Red_63: 1299626862
+      Warrior_Red_64: 936777691
+      Warrior_Red_65: 1587468204
+      Warrior_Red_66: -551648831
+      Warrior_Red_67: 1489974834
+      Warrior_Red_7: 1535616284
+      Warrior_Red_8: -463092769
+      Warrior_Red_9: -1443323523
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
